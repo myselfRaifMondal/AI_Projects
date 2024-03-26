@@ -43,7 +43,8 @@ Welcome to the AI Projects repository! This repository contains a collection of 
 ## Contributions:
 
 Contributions are welcome! If you have any suggestions, improvements, or new project ideas, feel free to open an issue or submit a pull request.
-License:
 
-This repository is licensed under the MIT License.
+## License:
+
+This repository is licensed under the ```MIT License```.
 
